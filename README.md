@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
-<hr/>
-
 <p align="center">
 	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=dachi-khelashvili&theme=cobalt&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="58.6%%"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachi-khelashvili&langs_count=10&theme=cobalt&hide_border=true&layout=compact&bg_color=0D1117" width="31.4%"/>
