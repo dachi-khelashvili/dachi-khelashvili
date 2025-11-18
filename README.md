@@ -8,7 +8,7 @@
 <hr/>
 
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=dachi-khelashvili&theme=darkhub&bg_color=0D111700&no-frame=true&column=6&row=1" width="90%"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=dachi-khelashvili&theme=darkhub&no-bg=true&no-frame=true&column=6&row=1" width="90%"/>
 </p>
 
 <hr/>
