@@ -14,7 +14,7 @@
 <hr/>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=dachi-khelashvili&hide_border=true&theme=cobalt&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=0D111700" width="100%">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=dachi-khelashvili&hide_border=true&theme=vue&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=0D111700" width="100%">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
