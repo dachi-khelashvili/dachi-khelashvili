@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
 <p align="center">
-	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=dachi-khelashvili&theme=cobalt&show_icons=true&count_private=true&hide_border=true&bg_color=0D111700&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="58.0%%"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachi-khelashvili&langs_count=10&theme=cobalt&hide_border=true&layout=compact&bg_color=0D111700" width="32%"/>
+	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=dachi-khelashvili&theme=cobalt&show_icons=true&count_private=true&hide_border=true&bg_color=0D111700&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="57.0%"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachi-khelashvili&langs_count=10&theme=cobalt&hide_border=true&layout=compact&bg_color=0D111700" width="33%"/>
 </p>
 
 <hr/>
